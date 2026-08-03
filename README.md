@@ -19,11 +19,3 @@ le projet contient 4 dossiers et 2 fichiers principaux:
   FICHIERS:
   - procfile: contient des instructions pour le lancement de l'api,
   - requirements: contient les dependances necessaires a l'execution de l'application entiere
-
-
-CAS D'USAGE:
-- URL de verification de la disponibilite de l'api: https://examendl-2-production.up.railway.app/
-  Le message qui devra s'afficher: API EXAMEN DEEP LEARNING 2 DIT
-
-- URL de detection de sentiment: https://examendl-2-production.up.railway.app/predict en methode post avec le fichier a analyser en utilisant par exemple postman ou une quelconque
-  application consommant des APIs
