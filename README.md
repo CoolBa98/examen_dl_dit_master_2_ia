@@ -1,3 +1,12 @@
+UNIVERSITE:
+Dakar Institute of Technology
+
+ETUDIANT:
+Zana Baba Stéphane COULIBALY
+
+CLASSE:
+Master 2 IA FEV26
+
 OBJECTIF DU PROJET: 
 mettre en place une application IA pour l'analyse d'un des sentiments des clients d'une entreprise à partir d'un fichier audio
 
